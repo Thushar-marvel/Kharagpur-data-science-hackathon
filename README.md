@@ -6,6 +6,7 @@ Kharagpur Data Analytics Group presents  Kharagpur Data Science Hackathon sp
 
 
 ![image]("https://github.com/Thushar-marvel/Kharagpur-data-science-hackathon/blob/main/images/image1.png")
+<img src="https://github.com/Thushar-marvel/Kharagpur-data-science-hackathon/blob/main/images/image1.png">
  
  # Problem Statement
 
