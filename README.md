@@ -5,7 +5,7 @@ Kharagpur Data Analytics Group presents  Kharagpur Data Science Hackathon sp
 
 
 
-![image](https://github.com/Thushar-marvel/Kharagpur-data-science-hackathon/blob/main/images/image1.png)
+!(https://github.com/Thushar-marvel/Kharagpur-data-science-hackathon/blob/main/images/image1.png)
  
  # Problem Statement
 
@@ -36,8 +36,8 @@ R^2 = coefficient of determination
 RSS = sum of squares of residuals
 TSS = total sum of squares
 
-![image](https://github.com/Thushar-marvel/Kharagpur-data-science-hackathon/blob/main/images/image2.png)
-![image](https://github.com/Thushar-marvel/Kharagpur-data-science-hackathon/blob/main/images/image3.png)
+!(https://github.com/Thushar-marvel/Kharagpur-data-science-hackathon/blob/main/images/image2.png)
+!(https://github.com/Thushar-marvel/Kharagpur-data-science-hackathon/blob/main/images/image3.png)
 
 Top 10% for the submission 1
 Top 5th for submission 2 with r2_score 0.95 for test dataset.
