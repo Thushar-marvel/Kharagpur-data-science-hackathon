@@ -2,6 +2,10 @@
 Kharagpur Data Analytics Group presents  Kharagpur Data Science Hackathon sponsored by Airtel
 
  # Mengary Revenue Prediction
+
+
+
+![image](https://github.com/Thushar-marvel/Kharagpur-data-science-hackathon/blob/main/images/image1.png)
  
  # Problem Statement
 
@@ -18,11 +22,11 @@ Your task is to predict the profits for the remainder of the year 2021 (April to
  Performed univariate, bivariate and multi variate analysis for extracting the realtionship between the indepedent as well as dependent variables
  Data pre-processing was done to create dummy variables and to treat outliers.
  
- # model
+ # Model
  The pre-processed data was trained with linear regression, L1 and L2 regularization, KNN,ensemble algorithms.
  It was found Xg boost performed well.
  
- # model evaluation
+ # Model evaluation
  The evaluation of the predicted outcomes is done on the basis of the R^2 score. The formula for the same is as follows:
 
 R^2 = 1 - (RSS / TSS)
@@ -32,7 +36,11 @@ R^2 = coefficient of determination
 RSS = sum of squares of residuals
 TSS = total sum of squares
 
+![image](https://github.com/Thushar-marvel/Kharagpur-data-science-hackathon/blob/main/images/image2.png)
+![image](https://github.com/Thushar-marvel/Kharagpur-data-science-hackathon/blob/main/images/image3.png)
 
+Top 10% for the submission 1
+Top 5th for submission 2 with r2_score 0.95 for test dataset.
 
 
 
