@@ -11,3 +11,29 @@ Mengary is an online E-Commerce company that delivers goods to its customers all
 Your task is to predict the profits for the remainder of the year 2021 (April to December). The board members have put in a lot of trust in you to accurately predict the profits for the remainder of this year so that they can increase their revenue. 
 
 
+# Dataset
+ The data set is available in kaggle. It can be downloaded ![here](https://www.kaggle.com/c/mengary-revenue-prediction/data)
+ 
+#  Performed data exploration
+ Performed univariate, bivariate and multi variate analysis for extracting the realtionship between the indepedent as well as dependent variables
+ Data pre-processing was done to create dummy variables and to treat outliers.
+ 
+ # model
+ The pre-processed data was trained with linear regression, L1 and L2 regularization, KNN,ensemble algorithms.
+ It was found Xg boost performed well.
+ 
+ # model evaluation
+ The evaluation of the predicted outcomes is done on the basis of the R^2 score. The formula for the same is as follows:
+
+R^2 = 1 - (RSS / TSS)
+
+where,
+R^2 = coefficient of determination
+RSS = sum of squares of residuals
+TSS = total sum of squares
+
+
+
+
+
+
