@@ -5,7 +5,7 @@ Kharagpur Data Analytics Group presents  Kharagpur Data Science Hackathon sp
 
 
 
-![image]("https://github.com/Thushar-marvel/Kharagpur-data-science-hackathon/blob/main/images/image1.png")
+
 <img src="https://github.com/Thushar-marvel/Kharagpur-data-science-hackathon/blob/main/images/image1.png">
  
  # Problem Statement
@@ -17,7 +17,7 @@ Your task is to predict the profits for the remainder of the year 2021 (April to
 
 
 # Dataset
- The data set is available in kaggle. It can be downloaded ![here](https://www.kaggle.com/c/mengary-revenue-prediction/data)
+ The data set is available in kaggle. 
  
 #  Performed data exploration
  Performed univariate, bivariate and multi variate analysis for extracting the realtionship between the indepedent as well as dependent variables
@@ -41,6 +41,7 @@ TSS = total sum of squares
 ![image](https://github.com/Thushar-marvel/Kharagpur-data-science-hackathon/blob/main/images/image3.png)
 
 Top 10% for the submission 1
+
 Top 5th for submission 2 with r2_score 0.95 for test dataset.
 
 
